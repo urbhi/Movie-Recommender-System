@@ -18,5 +18,5 @@ A robust and efficient movie recommender system built using advanced machine lea
 ### Clone the repository:
 
 ```bash
-git clone https://github.com//movie-recommender-system.git
+https://github.com/urbhi/Movie-Recommender-System.git
 cd movie-recommender-system
